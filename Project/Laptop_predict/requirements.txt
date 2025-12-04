@@ -1,2 +1,6 @@
 streamlit
-sklearn
+scikit-learn
+pandas
+numpy
+pickle5
+tensorflow==2.16.2
